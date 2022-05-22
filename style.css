@@ -48,7 +48,7 @@ footer {
   font-family: "Indie Flower", cursive;
 }
 
-@media (min-width: 250px) and (max-width: 1500px) {
+/* @media (min-width: 250px) and (max-width: 1500px) {
   h1 {
     font-size: 1.5rem;
   }
@@ -58,4 +58,4 @@ footer {
   img {
     width: 30%;
   }
-}
+} */
